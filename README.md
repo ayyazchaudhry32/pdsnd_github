@@ -9,6 +9,7 @@ GitHub project to fork from another remote repository, make changes on local rep
 
 ### Files used
 Using bikeshare.py file
+csv files are being ignored with .gitignore
 
 ### Credits
 Repository was forked from udacity/pdsnd_github
