@@ -1,6 +1,6 @@
 
 ###Monday April 18, 2022
-Include the date you created this project and README file.
+This file was created on a Monday
 
 ### GitHub Project
 
