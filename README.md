@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
+###Monday April 18, 2022
 Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+### GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+GitHub project to fork from another remote repository, make changes on local repository and push changes back to the forked remote repository.
 
 ### Files used
-Include the files used
+Using bikeshare.py file
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Repository was forked from udacity/pdsnd_github
 
