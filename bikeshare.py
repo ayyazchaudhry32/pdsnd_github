@@ -15,7 +15,7 @@ def get_filters():
 
     print('\nHello! Let\'s explore some US bikeshare data today!')
     while True:
-        city = input("Please select city a city from above:").lower()
+        city = input("Please select a city from above:").lower()
         if city.lower() not in ('chicago', 'new york city', 'washington'):
             print("Not an allowed city, please try again.")
         else:
