@@ -15,5 +15,5 @@ csv files are being ignored with .gitignore
 Repository was forked from udacity/pdsnd_github
 
 ### Remote Repository
-Remote repository is located at https://github.com/ayyazchaudhry32/my-travel-plans.git
+Remote repository is correctly located at https://github.com/ayyazchaudhry32/pdsnd_github.git
 
